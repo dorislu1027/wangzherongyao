@@ -21,7 +21,7 @@ body{
   color:transparent;
 }
 .sub{
-    font-size:50px;
+    font-size:20px;
     background:linear-gradient(
     90deg,
     #8C6728 0%, 
@@ -31,6 +31,19 @@ body{
     #F2D995 70%, 
     #B58A45 88%, 
     #8C6728 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color:transparent;
+}
+.poem{
+     font-size:20px;
+    background:linear-gradient(
+    120deg,
+    #FFF8E7, 
+    #F5D6A0，
+    #DDAE5D, 
+    #FFF0C9
   );
   background-clip: text;
   -webkit-background-clip: text;
