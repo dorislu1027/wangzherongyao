@@ -1,6 +1,38 @@
 body{
-    
+    background-image:url("王者峡谷.webp") 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .title{
-  
+   font-size:50px;
+   background:linear-gradient(
+    90deg,
+    #8C6728 0%, 
+    #B58A45 20%, 
+    #D4AF6A 40%, 
+    #FFF1C2 55%, 
+    #F2D995 70%, 
+    #B58A45 88%, 
+    #8C6728 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color:transparent;
+}
+.sub{
+    font-size:50px;
+    background:linear-gradient(
+    90deg,
+    #8C6728 0%, 
+    #B58A45 20%, 
+    #D4AF6A 40%, 
+    #FFF1C2 55%, 
+    #F2D995 70%, 
+    #B58A45 88%, 
+    #8C6728 100%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  color:transparent;
 }
