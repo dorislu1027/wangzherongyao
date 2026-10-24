@@ -1,6 +1,6 @@
 body{
-    matgin:0;
-    min-height:100px;
+    margin:0;
+    min-height:100vh;
     background-image:url("王者峡谷.webp");
     background-size: cover;
     background-position: center;
@@ -47,26 +47,14 @@ body{
         #B9E4D0, 
         #70B6A6
     );
+    color:white;
     transform: translateY(-3px);
     box-shadow: 0 7px 18px rgba(25, 59, 80, 0.35);
     filter: brightness(1.05);
-    transform: translateY(1px);
-    box-shadow: 0 2px 6px rgba(25, 59, 80, 0.25)
 }
-.span{
-    background:linear-gradient(
-        120deg, #163F38, #205C50, #287667, #3B8F7B  
-    )
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    color:transparent;
-    font-size:35px;
-    text-align:center;
-    -webkit-text-stroke: 1px white;
 }
 .hidden{
-    background: linear-gradient(120deg, #35264F  ,#493765  ,#62517E  ,#79678F )
+    background: linear-gradient(120deg, #35264F  ,#493765  ,#62517E  ,#79678F);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
