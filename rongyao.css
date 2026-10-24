@@ -89,10 +89,11 @@ body {
         #205C50,
         #287667,
         #3B8F7B
-    )
+    );
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
+    -webkit-text-fill-color: transparent;
     -webkit-text-stroke: 0.5px white;
 }
 .letter {
