@@ -7,14 +7,7 @@ body{
 .title{
    font-size:50px;
    background:linear-gradient(
-    90deg,
-    #8C6728 0%, 
-    #B58A45 20%, 
-    #D4AF6A 40%, 
-    #FFF1C2 55%, 
-    #F2D995 70%, 
-    #B58A45 88%, 
-    #8C6728 100%
+    120deg,#E5E7FF, #AAB8FF, #D7C5FF, #FFF0FA
   );
   background-clip: text;
   -webkit-background-clip: text;
@@ -24,14 +17,7 @@ body{
 .sub{
     font-size:20px;
     background:linear-gradient(
-    90deg,
-    #8C6728 0%, 
-    #B58A45 20%, 
-    #D4AF6A 40%, 
-    #FFF1C2 55%, 
-    #F2D995 70%, 
-    #B58A45 88%, 
-    #8C6728 100%
+    120deg,#E5E7FF, #AAB8FF, #D7C5FF, #FFF0FA
   );
   background-clip: text;
   -webkit-background-clip: text;
@@ -41,11 +27,7 @@ body{
 .poem{
     font-size:20px;
     background:linear-gradient(
-    120deg,
-    #FFF4C2,
-    #E8C66D,
-    #FFF9E8,
-    #C99A38
+   120deg,#E5E7FF, #AAB8FF, #D7C5FF, #FFF0FA
   );
   background-clip: text;
   -webkit-background-clip: text;
@@ -59,7 +41,8 @@ body{
         #B9E4D0, 
         #70B6A6
     );
-    color:#8AC7F0;
+    color:#A9A4FF;
     font-size:35px;
     text-align:center;
+    
 }
