@@ -52,7 +52,15 @@ body{
     transform: translateY(1px);
     box-shadow: 0 2px 6px rgba(25, 59, 80, 0.25);
 }
-
+.span{
+    background:linear-gradient(
+        120deg, #163F38, #205C50, #287667, #3B8F7B  
+    )
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color:transparent;
+}
 .hidden{
     display:none;
 }
