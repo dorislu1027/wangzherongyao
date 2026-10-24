@@ -2,7 +2,6 @@
 body {
     margin: 0;
     min-height: 100vh;
-
     background-image: url("王者峡谷.webp");
     background-size: cover;
     background-position: center;
@@ -23,7 +22,7 @@ body {
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
-    -webkit-text-stroke: 1px white;
+    -webkit-text-stroke: 1px #B9D7C8;
 }
 .sub {
     font-size: 20px;
@@ -39,7 +38,7 @@ body {
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
-    -webkit-text-stroke: 1px white;
+    -webkit-text-stroke: 1px #B9D7C8;
 }
 
 .poem {
@@ -55,7 +54,7 @@ body {
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
-    -webkit-text-stroke: 1px white;
+    -webkit-text-stroke: 0.5px #B9D7C8;
 }
 .poem p {
     margin: 12px 0;
