@@ -62,5 +62,11 @@ body{
     text-align:center;
 }
 .hidden{
+    background: linear-gradient(120deg, #35264F  ,#493765  ,#62517E  ,#79678F )
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color:transparent;
+    font-size:20px;
     display:none;
 }
