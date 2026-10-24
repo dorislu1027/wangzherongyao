@@ -39,7 +39,7 @@ body {
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
-    -webkit-text-stroke: 1px #B9D7C8;
+    -webkit-text-stroke: 0.05px #B9D7C8;
 }
 
 .poem {
