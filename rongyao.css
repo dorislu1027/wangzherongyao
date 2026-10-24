@@ -45,17 +45,17 @@ body {
 .poem {
     font-size: 20px;
     text-align: center;
-    background: linear-gradient(
+     background: linear-gradient(
         120deg,
-        #142B45,
-        #1D4661,
-        #326A7B,
-        #397D91
+        #9B7025 0%,
+        #C49A3A 30%,
+        #8A611D 60%,
+        #B58A35 100%
     );
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
-    -webkit-text-stroke: 0.5px #B9D7C8;
+    -webkit-text-stroke: 0.05px #704B18;
 }
 .poem p {
     margin: 12px 0;
