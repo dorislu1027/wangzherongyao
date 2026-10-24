@@ -3,7 +3,7 @@ body {
     margin: 0;
     min-height: 100vh;
     background-image: url("王者峡谷.webp");
-     background-image: url("C:\Users\sarah\Desktop\王者11周年")
+    background-image: url("C:\Users\sarah\Desktop\王者11周年")
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -47,15 +47,15 @@ body {
     text-align: center;
      background: linear-gradient(
         120deg,
-        #9B7025 0%,
-        #C49A3A 30%,
-        #8A611D 60%,
-        #B58A35 100%
+        #142B45,
+        #1D4661,
+        #326A7B,
+        #397D91
     );
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
-    -webkit-text-stroke: 0.05px #704B18;
+    -webkit-text-stroke: 0.05px black;
 }
 .poem p {
     margin: 12px 0;
